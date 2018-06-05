@@ -8,6 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
+using AssessmentManagerAPI.Controllers.Model;
 
 namespace AssessmentManagerAPI.Controllers
 {
@@ -126,11 +127,5 @@ namespace AssessmentManagerAPI.Controllers
         }
     }
 
-    public class Assessment
-    {
-        public int Id { get; set; }
-        public string Text { get; set; }
-        public string Description { get; set; }
-        public IList<Question> Questions { get; set; }
-    }
+   
 }

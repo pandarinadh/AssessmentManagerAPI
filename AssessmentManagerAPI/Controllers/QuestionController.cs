@@ -8,6 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
+using AssessmentManagerAPI.Controllers.Model;
 
 namespace AssessmentManagerAPI.Controllers
 {
@@ -150,18 +151,5 @@ namespace AssessmentManagerAPI.Controllers
         }
     }
 
-    public class Question
-    {
-        public int Id { get;  set; }
-        public string Text { get;  set; }
-        public string Description { get;  set; }
-
-        public Score Score { get; set; }
-    }
-    
-    public class Score
-    {
-        public int Id { get; set; }
-        public int Answer { get; set; }
-    }
+   
 }

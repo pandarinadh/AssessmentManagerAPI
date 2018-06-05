@@ -92,3 +92,4 @@ C:\my\Practice\AssessmentManagerAPI\AssessmentManagerAPI\bin\AssessmentManagerAP
 C:\my\Practice\AssessmentManagerAPI\AssessmentManagerAPI\bin\AssessmentManagerAPI.pdb
 C:\my\Practice\AssessmentManagerAPI\AssessmentManagerAPI\obj\Debug\AssessmentManagerAPI.dll
 C:\my\Practice\AssessmentManagerAPI\AssessmentManagerAPI\obj\Debug\AssessmentManagerAPI.pdb
+C:\my\Practice\AssessmentManagerAPI\AssessmentManagerAPI\obj\Debug\AssessmentManagerAPI.csprojResolveAssemblyReference.cache

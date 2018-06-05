@@ -8,6 +8,7 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
+using AssessmentManagerAPI.Controllers.Model;
 
 namespace AssessmentManagerAPI.Controllers
 {
@@ -128,16 +129,5 @@ namespace AssessmentManagerAPI.Controllers
         }
     }
 
-    public class Student
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Address { get; set; }
-        public string City { get; set; }
-        public string State{ get; set; }
-        public string Zip { get; set; }
-
-        public IList<Assessment> Assessments { get; set; }
-
-    }
+   
 }

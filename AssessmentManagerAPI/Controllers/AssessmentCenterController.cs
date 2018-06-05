@@ -9,7 +9,7 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
 using AssessmentManagerAPI.Common;
-
+using AssessmentManagerAPI.Controllers.Model;
 
 namespace AssessmentManagerAPI.Controllers
 {
@@ -89,9 +89,5 @@ namespace AssessmentManagerAPI.Controllers
         }
     }
 
-    public class StudentAssessment
-    {
-        public int Id { get; set; }
-        public Student Student { get; set; }
-    }
+    
 }
