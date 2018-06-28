@@ -40,6 +40,7 @@ namespace AssessmentManagerAPI.Controllers
                     tempQ.City = student.City;
                     tempQ.State = student.State;
                     tempQ.Zip = student.Zip;
+                    tempQ.Assessments = student.Assessments;
                 }
                 else
                 {
