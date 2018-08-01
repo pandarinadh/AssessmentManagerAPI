@@ -3,3 +3,8 @@
 *.dll
 .vs/AssessmentManagerAPI/v14/.suo
 *.pdb
+.vs/AssessmentManagerAPI/v14/.suo
+AssessmentManagerAPI/bin/AssessmentManagerAPI.dll
+AssessmentManagerAPI/bin/AssessmentManagerAPI.pdb
+AssessmentManagerAPI/obj/Debug/AssessmentManagerAPI.dll
+AssessmentManagerAPI/obj/Debug/AssessmentManagerAPI.pdb

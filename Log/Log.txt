@@ -1,0 +1,64 @@
+Request Mehod: GETRequest Time: 8/1/2018 11:47:02 AMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 11:47:02 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:49:22 AMRequest Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessmentsResponse Time: 8/1/2018 11:49:22 AMResponse Content Type: application/jsonStatus InternalServerError
+
+Request Mehod: GETRequest Time: 8/1/2018 11:49:23 AMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 11:49:23 AMResponse Content Type: application/jsonStatus InternalServerError
+
+Request Mehod: GETRequest Time: 8/1/2018 11:49:23 AMRequest Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessmentsResponse Time: 8/1/2018 11:49:23 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:49:23 AMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 11:49:23 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:53:01 AMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 11:53:01 AMResponse Content Type: application/jsonStatus InternalServerError
+
+Request Mehod: GETRequest Time: 8/1/2018 11:53:01 AMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 11:53:01 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:53:14 AMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 11:53:14 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:25 AMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 11:54:25 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:25 AMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 11:54:25 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:25 AMRequest Uri: http://localhost:90/api/student/GetAllStudentsResponse Time: 8/1/2018 11:54:25 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:25 AMRequest Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessmentsResponse Time: 8/1/2018 11:54:25 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:48 AMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 11:54:48 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:48 AMRequest Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessmentsResponse Time: 8/1/2018 11:54:48 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:48 AMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 11:54:48 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:54:48 AMRequest Uri: http://localhost:90/api/student/GetAllStudentsResponse Time: 8/1/2018 11:54:48 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:57:31 AMRequest Uri: http://localhost:90/api/student/GetAllStudentsResponse Time: 8/1/2018 11:57:31 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:57:31 AMRequest Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessmentsResponse Time: 8/1/2018 11:57:31 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:57:31 AMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 11:57:31 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 11:57:31 AMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 11:57:31 AMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 12:08:10 PMRequest Uri: http://localhost:90/api/Question/GetAllQuestionsResponse Time: 8/1/2018 12:08:10 PMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 12:08:10 PMRequest Uri: http://localhost:90/api/assessment/GetAllAssessmentsResponse Time: 8/1/2018 12:08:10 PMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 12:08:10 PMRequest Uri: http://localhost:90/api/student/GetAllStudentsResponse Time: 8/1/2018 12:08:10 PMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GETRequest Time: 8/1/2018 12:08:10 PMRequest Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessmentsResponse Time: 8/1/2018 12:08:10 PMResponse Content Type: application/jsonStatus OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:09 PM Request Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessments Response Time: 8/1/2018 12:09:09 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:09 PM Request Uri: http://localhost:90/api/Question/GetAllQuestions Response Time: 8/1/2018 12:09:09 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:09 PM Request Uri: http://localhost:90/api/assessment/GetAllAssessments Response Time: 8/1/2018 12:09:09 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:09 PM Request Uri: http://localhost:90/api/student/GetAllStudents Response Time: 8/1/2018 12:09:09 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:20 PM Request Uri: http://localhost:90/api/student/GetAllStudents Response Time: 8/1/2018 12:09:20 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:20 PM Request Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessments Response Time: 8/1/2018 12:09:20 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:20 PM Request Uri: http://localhost:90/api/assessment/GetAllAssessments Response Time: 8/1/2018 12:09:20 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 8/1/2018 12:09:20 PM Request Uri: http://localhost:90/api/Question/GetAllQuestions Response Time: 8/1/2018 12:09:20 PM Response Content Type: application/json Status OK
+
