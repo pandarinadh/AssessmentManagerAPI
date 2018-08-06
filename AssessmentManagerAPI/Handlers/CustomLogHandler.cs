@@ -13,7 +13,7 @@ namespace AssessmentManagerAPI.Handlers
 {
     public class CustomLogHandler : DelegatingHandler
     {
-        public string strFile = @"C:\my\Practice\AssessmentManagerAPI\Log\Log.txt";
+        public string strFile = AppDomain.CurrentDomain.BaseDirectory + "Log.txt";
         private object m_LogSync = new object();
 
         protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
