@@ -257,6 +257,7 @@
     <Compile Include="Controllers\Model\Score.cs" />
     <Compile Include="Controllers\Model\Student.cs" />
     <Compile Include="Controllers\Model\StudentAssessment.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Controllers\QuestionController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\StudentController.cs" />
@@ -338,6 +339,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Assessment\" />
+    <Folder Include="Views\Product\" />
     <Folder Include="Views\Student\" />
   </ItemGroup>
   <ItemGroup>
