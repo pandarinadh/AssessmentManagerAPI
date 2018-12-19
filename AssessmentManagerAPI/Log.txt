@@ -86,3 +86,71 @@ Request Mehod: GET Request Time: 12/17/2018 4:42:56 PM Request Uri: http://local
 
 Request Mehod: GET Request Time: 12/17/2018 4:43:11 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:43:11 PM Response Content Type: application/json Status OK
 
+Request Mehod: GET Request Time: 12/17/2018 4:50:07 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:50:07 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/17/2018 4:50:14 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:50:14 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/17/2018 4:50:31 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:50:31 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/17/2018 4:51:19 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:51:19 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/17/2018 4:55:21 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:55:21 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/17/2018 4:55:55 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/17/2018 4:55:55 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 11:27:22 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 11:27:29 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 11:30:45 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 11:30:45 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 11:34:30 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 11:34:35 AM Response Content Type: application/json Status InternalServerError
+
+Request Mehod: GET Request Time: 12/18/2018 11:34:57 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 11:34:57 AM Response Content Type: application/json Status InternalServerError
+
+Request Mehod: GET Request Time: 12/18/2018 11:35:30 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 11:35:30 AM Response Content Type: application/json Status InternalServerError
+
+Request Mehod: GET Request Time: 12/18/2018 11:36:05 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 11:36:05 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:17 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:18 PM Response Content Type: application/json Status InternalServerError
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:17 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:18 PM Response Content Type: application/json Status InternalServerError
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:17 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:18 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:17 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:18 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:17 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:18 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:32 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:32 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:35 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:35 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:38 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:38 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:48 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:48 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:55:56 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:55:56 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:56:51 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:56:51 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/18/2018 3:58:00 PM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/18/2018 3:58:00 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 12/19/2018 11:48:15 AM Request Uri: http://localhost:90/api/Question Response Time: 12/19/2018 11:48:16 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 12/19/2018 11:48:37 AM Request Uri: http://localhost:90/api/product Response Time: 12/19/2018 11:48:37 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 12/19/2018 11:48:52 AM Request Uri: http://localhost:90/api/product/GetAllProducts Response Time: 12/19/2018 11:48:53 AM Response Content Type: application/xml Status InternalServerError
+
+Request Mehod: GET Request Time: 12/19/2018 11:49:12 AM Request Uri: http://localhost:90/api/product/GetAllProducts Response Time: 12/19/2018 11:49:12 AM Response Content Type: application/xml Status InternalServerError
+
+Request Mehod: GET Request Time: 12/19/2018 11:49:18 AM Request Uri: http://localhost:90/api/product/GetAllProducts Response Time: 12/19/2018 11:49:18 AM Response Content Type: application/xml Status InternalServerError
+
+Request Mehod: GET Request Time: 12/19/2018 11:49:20 AM Request Uri: http://localhost:90/api/product/GetAllProducts Response Time: 12/19/2018 11:49:20 AM Response Content Type: application/xml Status InternalServerError
+
+Request Mehod: GET Request Time: 12/19/2018 11:49:28 AM Request Uri: http://localhost:90/api/product/GetAllstudents Response Time: 12/19/2018 11:49:28 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 12/19/2018 11:51:20 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/19/2018 11:51:21 AM Response Content Type: application/xml Status InternalServerError
+
+Request Mehod: GET Request Time: 12/19/2018 11:55:10 AM Request Uri: http://localhost:90/api/product/getallproducts Response Time: 12/19/2018 11:55:11 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 12/19/2018 11:55:32 AM Request Uri: http://localhost:90/api/Question/getallquestions Response Time: 12/19/2018 11:55:32 AM Response Content Type: application/xml Status OK
+
