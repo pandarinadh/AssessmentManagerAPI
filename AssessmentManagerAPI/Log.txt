@@ -154,3 +154,47 @@ Request Mehod: GET Request Time: 12/19/2018 11:55:10 AM Request Uri: http://loca
 
 Request Mehod: GET Request Time: 12/19/2018 11:55:32 AM Request Uri: http://localhost:90/api/Question/getallquestions Response Time: 12/19/2018 11:55:32 AM Response Content Type: application/xml Status OK
 
+Request Mehod: GET Request Time: 4/3/2019 3:03:32 PM Request Uri: http://localhost:90/api/quesiton Response Time: 4/3/2019 3:03:32 PM Response Content Type: application/xml Status NotFound
+
+Request Mehod: GET Request Time: 4/3/2019 3:03:47 PM Request Uri: http://localhost:90/api/question Response Time: 4/3/2019 3:03:47 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:04:14 PM Request Uri: http://localhost:90/api/question/GetAllQuestions Response Time: 4/3/2019 3:04:14 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:11:47 PM Request Uri: http://localhost:90/api/question/api/quesiton Response Time: 4/3/2019 3:11:47 PM Response Content Type: application/xml Status NotFound
+
+Request Mehod: GET Request Time: 4/3/2019 3:12:14 PM Request Uri: http://localhost:90/api/question/api/question Response Time: 4/3/2019 3:12:14 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:16:35 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:16:35 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:16:58 PM Request Uri: http://localhost:90/api/product/GetAllProducts Response Time: 4/3/2019 3:16:59 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:18:14 PM Request Uri: http://localhost:90/api/question/api/question Response Time: 4/3/2019 3:18:14 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:18:15 PM Request Uri: http://localhost:90/api/question/api/question Response Time: 4/3/2019 3:18:15 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:22:40 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:22:40 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:25:59 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:25:59 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:27:35 PM Request Uri: http://localhost:90/api/question/api/question Response Time: 4/3/2019 3:27:35 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:29:07 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:29:07 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:32:58 PM Request Uri: http://localhost:90/api/question/api/question Response Time: 4/3/2019 3:32:58 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:36:10 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:36:11 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:41:11 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:41:11 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:45:03 PM Request Uri: http://localhost:90/api/product Response Time: 4/3/2019 3:45:03 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:52:55 PM Request Uri: http://localhost:90/api/questions Response Time: 4/3/2019 3:52:55 PM Response Content Type: application/xml Status NotFound
+
+Request Mehod: GET Request Time: 4/3/2019 3:52:55 PM Request Uri: http://localhost:90/api/questions Response Time: 4/3/2019 3:52:55 PM Response Content Type: application/xml Status NotFound
+
+Request Mehod: GET Request Time: 4/3/2019 3:53:06 PM Request Uri: http://localhost:90/api/questions/getquestions Response Time: 4/3/2019 3:53:06 PM Response Content Type: application/xml Status NotFound
+
+Request Mehod: GET Request Time: 4/3/2019 3:53:26 PM Request Uri: http://localhost:90/api/questions/GetAllQuestions Response Time: 4/3/2019 3:53:26 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 4/3/2019 3:53:35 PM Request Uri: http://localhost:90/api/questions/ Response Time: 4/3/2019 3:53:35 PM Response Content Type: application/xml Status NotFound
+

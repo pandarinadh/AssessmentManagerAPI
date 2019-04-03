@@ -18,7 +18,7 @@ namespace AssessmentManagerAPI.Handlers
 
         protected override async Task<HttpResponseMessage> SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
         {
-            Debug.WriteLine("Process request");
+           // Debug.WriteLine("Process request");
 
             // Create the response.
             var logMetadata = BuildRequestMetadata(request);

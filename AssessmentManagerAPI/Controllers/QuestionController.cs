@@ -12,7 +12,7 @@ using AssessmentManagerAPI.Controllers.Model;
 
 namespace AssessmentManagerAPI.Controllers
 {
-    [RoutePrefix("api/Question")]
+    [RoutePrefix("api/Questions")]
     public class QuestionController : ApiController
     {
 

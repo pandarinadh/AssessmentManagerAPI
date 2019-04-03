@@ -8,3 +8,7 @@ AssessmentManagerAPI/bin/*
 
 AssessmentManagerAPI/obj/*
 
+AssessmentManagerAPI/bin/*
+.vs/AssessmentManagerAPI/v14/.suo
+*.pdb
+*.dll
