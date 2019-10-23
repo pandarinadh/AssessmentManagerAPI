@@ -198,3 +198,469 @@ Request Mehod: GET Request Time: 4/3/2019 3:53:26 PM Request Uri: http://localho
 
 Request Mehod: GET Request Time: 4/3/2019 3:53:35 PM Request Uri: http://localhost:90/api/questions/ Response Time: 4/3/2019 3:53:35 PM Response Content Type: application/xml Status NotFound
 
+Request Mehod: GET Request Time: 5/15/2019 10:58:00 AM Request Uri: http://localhost:13673/api/Question Response Time: 5/15/2019 10:58:00 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 10:58:17 AM Request Uri: http://localhost:13673/api/Question/GETALLQUESTIONS Response Time: 5/15/2019 10:58:17 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 10:59:12 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 10:59:12 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 10:59:32 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 10:59:32 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 10:59:51 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 10:59:51 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:00:43 AM Request Uri: http://localhost:13673/api/Question Response Time: 5/15/2019 11:00:43 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:00:49 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:00:49 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:00:52 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:00:52 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:00:53 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:00:53 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:00:54 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:00:54 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:00:55 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:00:55 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:02:14 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:02:14 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:03:04 AM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/15/2019 11:03:04 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:05:32 AM Request Uri: http://localhost:13673/api/Questions/GetAllQuestions Response Time: 5/15/2019 11:05:35 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:05:45 AM Request Uri: http://localhost:13673/api/Questions/GetAllQuestions Response Time: 5/15/2019 11:05:45 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:05:48 AM Request Uri: http://localhost:13673/api/Questions/GetAllQuestions Response Time: 5/15/2019 11:05:48 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/15/2019 11:05:48 AM Request Uri: http://localhost:13673/api/Questions/GetAllQuestions Response Time: 5/15/2019 11:05:48 AM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/17/2019 1:25:20 PM Request Uri: http://localhost:13673/api/Question/GetAllQuestions Response Time: 5/17/2019 1:25:20 PM Response Content Type: application/xml Status OK
+
+Request Mehod: GET Request Time: 5/17/2019 1:26:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/17/2019 1:26:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/17/2019 1:26:48 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/17/2019 1:26:48 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/17/2019 1:34:43 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/17/2019 1:34:43 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 9:15:55 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 9:15:55 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:07:28 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:07:39 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:07:49 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:07:59 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:08:27 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:08:37 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:08:34 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:08:45 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:08:45 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:08:55 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:08:49 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:08:59 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:15 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:25 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:16 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:26 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:23 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:33 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:25 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:35 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:28 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:38 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:33 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:43 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:09:38 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:09:48 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:10:01 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:10:11 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:10:16 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:10:26 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:10:57 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:11:07 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:13:36 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:13:46 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:14:16 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:14:26 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:14:23 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:14:33 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:15:23 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:15:33 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:15:35 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:15:45 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:15:39 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:15:49 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:15:42 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:15:52 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:15:45 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:15:55 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:16:08 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:16:18 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:16:10 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:16:20 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:16:32 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:16:42 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:16:46 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:16:56 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:17:03 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:17:13 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:17:20 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:17:30 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:17:42 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:17:52 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:18:07 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:18:17 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:18:19 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:18:29 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:19:37 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:19:47 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:20:18 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:20:28 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:20:45 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:20:55 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:21:31 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:21:41 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:23:36 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:23:46 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:28:02 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:28:12 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:28:08 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:28:18 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:28:22 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:28:32 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:29:03 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:29:13 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:30:22 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:30:32 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:33:22 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:33:32 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:34:12 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:34:22 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:39:19 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:39:29 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:40:27 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:40:37 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:42:04 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:42:14 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:42:15 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:42:25 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:45:05 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:45:15 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:45:35 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:45:45 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:46:28 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:46:38 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:46:48 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:46:58 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:48:53 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:49:03 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:50:41 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:50:51 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:51:02 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:51:12 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:51:18 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:51:28 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:51:40 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:51:50 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:51:49 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:51:59 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:51:58 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:52:08 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 10:52:16 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 10:52:26 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:10:17 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:10:27 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:10:45 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:10:55 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:13:27 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:13:37 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:13:59 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:14:09 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:14:19 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:14:29 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:14:43 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:14:53 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:14:57 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:15:07 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:15:08 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:15:18 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:15:25 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:15:35 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:16:10 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:16:20 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:16:23 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:16:33 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:16:47 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:16:57 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:17:09 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:17:19 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:17:31 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:17:41 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:18:19 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:18:29 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:19:13 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:19:23 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:19:15 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:19:25 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:19:30 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:19:40 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:20:56 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:21:06 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:21:35 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:21:45 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:21:52 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:22:02 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:47:51 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:48:01 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:49:11 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:49:21 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:54:19 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:54:29 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:56:21 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:56:31 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 11:59:40 AM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 11:59:50 AM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:01:30 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:01:40 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:10:04 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:10:14 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:10:26 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:10:36 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:10:37 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:10:47 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:10:50 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:11:00 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:12:00 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:12:10 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:19:03 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:19:13 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:29:02 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:29:12 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:29:56 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:30:06 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:53:56 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:54:06 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:54:35 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:54:45 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:57:09 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:57:19 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 12:58:20 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 12:58:30 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:30:34 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:30:44 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:31:04 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:31:14 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:31:15 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:31:25 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:31:19 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:31:29 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:31:32 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:31:42 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:35:04 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:35:14 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:37:36 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:37:46 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:38:19 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:38:29 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:38:45 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:38:55 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:39:31 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:39:41 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:39:44 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:39:54 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:41:13 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:41:23 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:41:48 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:41:58 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:42:00 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:42:10 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:42:12 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:42:22 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:43:19 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:43:29 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:44:03 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:44:13 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:44:08 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:44:18 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:44:12 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:44:22 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:44:17 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:44:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:44:25 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:44:35 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:44:47 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:44:57 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:45:35 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:45:45 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:46:39 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:46:49 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:46:42 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:46:52 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:46:56 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:47:06 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:47:37 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:47:47 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:47:51 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:48:01 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:48:05 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:48:15 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:49:33 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:49:43 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:50:47 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:50:57 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:51:00 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:51:10 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:51:12 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:51:22 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:56:23 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:56:33 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 1:56:35 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 1:56:45 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:13:19 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:13:29 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:13:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:13:37 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:13:32 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:13:42 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:17:55 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:17:56 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:17:57 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:17:57 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:17:59 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:17:59 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:18:00 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:18:00 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:19:59 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:19:59 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:19:59 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:19:59 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:21:34 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:21:34 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:41:00 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:41:00 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:41:03 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:41:03 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:41:04 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:41:04 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 2:41:05 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 2:41:05 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 3:12:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 3:12:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/20/2019 3:12:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/20/2019 3:12:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:01:24 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:01:24 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:01:25 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:01:25 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:01:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:01:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:01:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:01:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:01:46 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:01:46 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:01:50 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:01:50 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:03:53 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:03:53 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:03:58 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:03:58 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:04:01 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:04:01 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:04:04 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:04:04 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:04:07 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:04:07 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:04:11 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:04:11 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:04:46 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:04:46 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:05:42 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:05:42 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:07:02 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:07:02 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:07:40 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:07:40 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:07:43 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:07:43 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:08:06 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:08:06 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:08:57 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:08:57 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:09:24 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:09:24 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:11:20 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:11:20 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:12:10 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:12:10 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:12:28 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:12:28 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:12:39 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:12:39 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:12:57 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:12:57 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:13:19 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:13:19 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:13:29 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:13:29 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:13:32 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:13:32 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:13:42 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:13:42 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:14:39 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:14:39 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:14:45 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:14:45 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:16:34 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:16:34 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:16:38 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:16:38 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:16:54 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:16:54 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:16:59 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:16:59 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:17:10 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:17:10 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:17:22 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:17:22 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:19:28 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:19:28 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:19:31 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:19:31 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:19:54 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:19:54 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:20:05 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:20:05 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:21:27 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:21:27 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:21:30 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:21:30 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:21:48 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:21:48 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:22:08 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:22:08 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:22:11 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:22:11 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:22:24 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:22:24 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:22:28 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:22:28 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:23:41 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:23:41 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:23:50 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:23:50 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:23:53 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:23:53 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:23:57 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:23:57 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:24:06 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:24:06 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:25:13 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:25:13 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 5/21/2019 3:25:13 PM Request Uri: http://localhost:13673/api/student/getallstudents Response Time: 5/21/2019 3:25:13 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 10/23/2019 1:26:17 PM Request Uri: http://localhost:90/api/Question/GetAllQuestions Response Time: 10/23/2019 1:26:21 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 10/23/2019 1:26:17 PM Request Uri: http://localhost:90/api/student/GetAllStudents Response Time: 10/23/2019 1:26:21 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 10/23/2019 1:26:17 PM Request Uri: http://localhost:90/api/assessment/GetAllAssessments Response Time: 10/23/2019 1:26:21 PM Response Content Type: application/json Status OK
+
+Request Mehod: GET Request Time: 10/23/2019 1:26:17 PM Request Uri: http://localhost:90/api/AssesssmentCenter/GetAllStudentAssessments Response Time: 10/23/2019 1:26:21 PM Response Content Type: application/json Status OK
+
+Request Mehod: POST Request Time: 10/23/2019 1:28:18 PM Request Uri: http://localhost:90/api/AssesssmentCenter/save Response Time: 10/23/2019 1:28:22 PM Response Content Type: application/json Status OK
+

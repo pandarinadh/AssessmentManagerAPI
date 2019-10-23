@@ -9,6 +9,7 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
 using AssessmentManagerAPI.Controllers.Model;
+using System.Threading;
 
 namespace AssessmentManagerAPI.Controllers
 {
@@ -69,6 +70,8 @@ namespace AssessmentManagerAPI.Controllers
         [Route("GetAllStudents")]
         public List<Student> GetAllStudents()
         {
+            //Thread.Sleep(10000);
+
             List<Student> _data = getData();
 
             return _data;

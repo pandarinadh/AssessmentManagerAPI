@@ -81,10 +81,7 @@
               "Id": 20,
               "Text": "An assembly is a final deploy-able unit which can versioned and secured",
               "Description": "An assembly is a final deploy-able unit which can versioned and secured",
-              "Score": {
-                "Id": 0,
-                "Answer": 1
-              }
+              "Score": null
             }
           ]
         }
